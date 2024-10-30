@@ -1,0 +1,30 @@
+body{
+    background-color: hsla(341, 14%, 41%, 1);
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    color: hsla(76, 100%, 43%, 1);
+}
+#pass1{
+    background-color: yellowgreen;
+    width: 200px;
+    height: 30px;
+    color: black;
+    background-color: cadetblue;
+    border-radius: 2px;
+    align-items: center;
+    text-align: center;
+}
+#pass2{
+    background-color: yellowgreen;
+    width: 200px;
+    height: 30px;
+    color: black;
+    background-color: cadetblue;
+    border-radius: 2px;
+    align-items: center;
+    text-align: center;
+}
